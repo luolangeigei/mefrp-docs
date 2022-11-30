@@ -9,6 +9,7 @@ Frp 是一个高性能的内网穿透应用，我们可以通过 Frp 映射网�
 ### Windows
 Windows Pascal 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Pascal_Win.7z)</br>
 Windows Python 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Python_Win.zip)
+Windows .NET 启动器[下载链接](http://124.223.35.239/download/mefrp/index.htm)
 ### Linux
 Linux Pascal 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Pascal_Lin.7z)</br>
 Linux Python 启动器[下载链接](http://cdn.114514.space/Download/Files/MirrorEdge/Mirror_Edge_Frp_Python_Lin.tar.gz)
@@ -26,7 +27,7 @@ Linux Python 启动器[下载链接](http://cdn.114514.space/Download/Files/Mirr
 ::: danger 最后一点
 向管理员报告 Bug 时请一定带上</br>
 节点名称: 例如北京阿里云</br>
-什么启动器:例如公版启动器/ Pascal 启动器 / Python 启动器</br>
+什么启动器:例如公版启动器/ Pascal 启动器 / Python 启动器/.NET启动器</br>
 是否实名认证</br>
 否则管理员也不知道问题在哪里这种情况管理员一般 拒绝 回答你的问题! 
 :::
