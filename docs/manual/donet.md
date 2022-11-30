@@ -2,7 +2,7 @@
 ## 
 <a name="ngIH6"></a>
 ## 1.下载客户端
-.NET Windows启动器下载地址：[点这下载](http://124.223.35.239/download/mefrp/)<br />进入网站后点击安装。<br />按照提示安装即可<br />![image.png](https://cdn.nlark.com/yuque/0/2022/png/34553272/1669775772148-b73407fd-7bf1-4740-a12b-d772bf418da0.png#averageHue=%23fcfbfa&clientId=u0bccc2fa-0305-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=404&id=u0314d79a&margin=%5Bobject%20Object%5D&name=image.png&originHeight=404&originWidth=931&originalType=binary&ratio=1&rotation=0&showTitle=false&size=20988&status=done&style=none&taskId=u6b519d59-9fae-4fd6-9ffb-5d9b54bd9b2&title=&width=931)
+.NET Windows启动器下载地址：[点这下载](http://124.223.35.239/download/mefrp/)<br />进入网站后点击安装。<br />按照提示安装即可<br />![image.png](https://files.catbox.moe/9j49bw.png)
 > 打开时可能会提示，无法验证开发者，这只是因为没有导入有效证书！！！不说明软件有问题
 
 <a name="W6JwV"></a>
